@@ -12,7 +12,7 @@ Test pkg_resources plugin for irc3
 setuptools.setup(
     name='irc3-plugins-test',
     summary='test plugin for irc3',
-    version='0.0.2',
+    version='0.0.3',
     long_description=desc,
     author='Daniel Wallace',
     author_email='daniel@gtmanfred.com',
